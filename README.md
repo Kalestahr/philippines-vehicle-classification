@@ -384,7 +384,9 @@ This finding required joining `fact_image_quality_audit` (from the CleanLab audi
 
 ## How to Use the Dashboard
 
-https://dbc-160be497-0e81.cloud.databricks.com/dashboardsv3/01f1b3fe614b12cc881f4f16164d3532/published?o=7474655651129263&f_6f5ef1b5%7Ea5ea8c83=_all_ 
+![Dashboard overview](dashboard/image1.png)
+![Dashboard detail view](dashboard/image2.png)
+![Dashboard filter in use](dashboard/image3.png)
 
 **One global filter** sits at the top: **Vehicle Category** (private / public transport / goods-freight / non-motorized), narrows the whole dashboard to one category at a time.
 
